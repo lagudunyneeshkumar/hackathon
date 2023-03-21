@@ -15,9 +15,10 @@ Agriculture Metrics and residue management
   stacks used:
   
    We use HTML,CSS and javascript to create
-   • We use AIRtable to store the data of the farmer. 
-   • Automations using Zapier.
+   •We used PHP and my sql database to store the farmer's responses
    • Google Maps API  
 
+
+*note:Due to the static view of website ,to use the php we need to have local server (xampp),so we didnot include the backend file*
   
   

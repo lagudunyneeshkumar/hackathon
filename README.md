@@ -19,6 +19,6 @@ Agriculture Metrics and residue management
    • Google Maps API  
 
 
-*note:Due to the static view of website ,to use the php we need to have local server (xampp),so we didnot include the backend file*
+*note:Due to the static view of website ,to use the php we need to have local server (xampp),so we didnot include the backend file,but we included that part in the video*
   
   
